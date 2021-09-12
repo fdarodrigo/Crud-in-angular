@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook MacPro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansumg S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "name": "Geladeira",
+      "price": "10000",
+      "id": 7
+    },
+    {
+      "name": "Produto 10",
+      "price": "40",
+      "id": 8
+    },
+    {
+      "name": "Novinho em folha",
+      "price": "542",
+      "id": 10
+    },
+    {
+      "name": "Mesa",
+      "price": "10000",
+      "id": 12
+    },
+    {
+      "name": "Produto",
+      "price": "123",
+      "id": 13
+    },
+    {
+      "name": "Um produto qualquer",
+      "price": "5000",
+      "id": 14
+    }
+  ]
+}
