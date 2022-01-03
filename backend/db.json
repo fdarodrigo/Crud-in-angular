@@ -49,6 +49,11 @@
       "name": "Um produto qualquer",
       "price": "5000",
       "id": 14
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 15
     }
   ]
 }
